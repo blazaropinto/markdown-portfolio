@@ -1,1 +1,1 @@
-![Image](https://github.com/blazaropinto/markdown-portfolio/blob/add-images-links/example.jpg)
+![Image](https://github.com/blazaropinto/markdown-portfolio/blob/main/exp.jpg)
